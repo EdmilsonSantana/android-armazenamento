@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">Android-Armazenamento</string>
+    <string name="pref_name">Preference Name</string>
+    <string name="file_name">File Name</string>
+    <string name="save">SAVE</string>
+    <string name="pref_value">Preference Value</string>
+    <string name="file_value">File Value</string>
+    <string name="read">READ</string>
+    <string name="save_to_file">Save to File</string>
+</resources>
